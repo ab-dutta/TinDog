@@ -13,12 +13,11 @@ Contributing
 License
 Acknowledgements
 
-![image alt](https://github.com/user-attachments/assets/4d07e523-8b16-44c3-8d79-dd957d1947e9)
-
-![image alt](https://github.com/user-attachments/assets/90df0b5d-eb60-4b8f-b264-2ae35f8cb9b6)
+![image alt](https://github.com/user-attachments/assets/44acd13e-e492-4299-ac66-45efcc6854b8)
 
 
-![image alt](https://github.com/user-attachments/assets/deed56a3-acef-4018-87a4-54eac97eb98b)
+![image alt](https://github.com/user-attachments/assets/7b557cf4-1fb2-4d40-bdc9-6818d4528a79)
+
 
 
 AcknowledgementsBootstrap – CSS framework (MIT).
